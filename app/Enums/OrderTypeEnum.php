@@ -1,0 +1,11 @@
+<?php
+
+namespace App\Enums;
+
+enum OrderTypeEnum: string
+{
+    case DINE_IN = 'dine_in';
+    case TAKEAWAY = 'takeaway';
+    case DELIVERY = 'delivery';
+}
+

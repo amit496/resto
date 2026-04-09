@@ -1,0 +1,22 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="960" height="720" rx="44" fill="#FFF5EC"/>
+<rect x="84" y="84" width="792" height="552" rx="40" fill="url(#a)"/>
+<ellipse cx="480" cy="454" rx="230" ry="86" fill="#D7E2EC"/>
+<ellipse cx="480" cy="434" rx="204" ry="70" fill="#F5EEE5"/>
+<path d="M327 406C396 346 566 346 633 405" stroke="#F0B94B" stroke-width="22" stroke-linecap="round"/>
+<path d="M336 448C410 390 551 390 623 447" stroke="#F0B94B" stroke-width="22" stroke-linecap="round"/>
+<path d="M364 490C430 445 531 445 595 489" stroke="#F0B94B" stroke-width="22" stroke-linecap="round"/>
+<circle cx="378" cy="388" r="14" fill="#D45129"/>
+<circle cx="558" cy="410" r="14" fill="#D45129"/>
+<circle cx="496" cy="472" r="14" fill="#D45129"/>
+<path d="M642 229L703 297" stroke="#83503B" stroke-width="12" stroke-linecap="round"/>
+<path d="M682 196L642 229L703 297" stroke="#83503B" stroke-width="12" stroke-linecap="round"/>
+<rect x="114" y="108" width="198" height="54" rx="27" fill="#fff" fill-opacity=".9"/>
+<text x="148" y="143" fill="#2C160F" font-family="Arial, sans-serif" font-size="28" font-weight="700">Creamy Pasta</text>
+<defs>
+<linearGradient id="a" x1="118" y1="106" x2="842" y2="610" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF9F4"/>
+<stop offset="1" stop-color="#FFEAD5"/>
+</linearGradient>
+</defs>
+</svg>

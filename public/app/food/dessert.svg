@@ -1,0 +1,20 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="960" height="720" rx="44" fill="#FFF5FB"/>
+<rect x="84" y="84" width="792" height="552" rx="40" fill="url(#a)"/>
+<rect x="360" y="438" width="242" height="88" rx="44" fill="#EFA35B"/>
+<rect x="344" y="366" width="274" height="86" rx="43" fill="#FFD2E4"/>
+<rect x="370" y="298" width="222" height="88" rx="44" fill="#F7B8D1"/>
+<circle cx="478" cy="268" r="42" fill="#FFF1F7"/>
+<circle cx="520" cy="254" r="38" fill="#FFE1EE"/>
+<circle cx="438" cy="254" r="36" fill="#FFEAF3"/>
+<circle cx="568" cy="312" r="16" fill="#D64A52"/>
+<path d="M568 284C576 268 590 258 606 256C602 274 588 289 568 312Z" fill="#3D9A53"/>
+<rect x="114" y="108" width="212" height="54" rx="27" fill="#fff" fill-opacity=".9"/>
+<text x="148" y="143" fill="#2C160F" font-family="Arial, sans-serif" font-size="28" font-weight="700">Sweet Dessert</text>
+<defs>
+<linearGradient id="a" x1="116" y1="112" x2="844" y2="610" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF8FD"/>
+<stop offset="1" stop-color="#FFEAF5"/>
+</linearGradient>
+</defs>
+</svg>

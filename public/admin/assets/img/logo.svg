@@ -1,0 +1,9 @@
+﻿<svg width="220" height="54" viewBox="0 0 220 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="4" width="46" height="46" rx="12" fill="#0F172A"/>
+  <path d="M13 20.5C13 16.36 16.36 13 20.5 13H29.5C33.64 13 37 16.36 37 20.5V22H18.5C17.12 22 16 23.12 16 24.5V39H13V20.5Z" fill="#F59E0B"/>
+  <path d="M20.5 26H41V33.5C41 37.64 37.64 41 33.5 41H20.5V26Z" fill="#1D4ED8"/>
+  <path d="M24 31.5H31.5C33.43 31.5 35 33.07 35 35V35C35 36.93 33.43 38.5 31.5 38.5H24V31.5Z" fill="white"/>
+  <text x="58" y="31" fill="#0F172A" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Foodi</text>
+  <text x="129" y="31" fill="#F59E0B" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">hub</text>
+  <text x="58" y="44" fill="#64748B" font-size="10" font-family="Segoe UI, Arial, sans-serif" font-weight="600" letter-spacing="1.2">FOOD ORDERING PANEL</text>
+</svg>

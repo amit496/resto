@@ -1,0 +1,23 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="960" height="720" rx="44" fill="#FFF5EE"/>
+<rect x="72" y="76" width="816" height="568" rx="40" fill="url(#a)"/>
+<ellipse cx="480" cy="480" rx="248" ry="82" fill="#A84A27"/>
+<ellipse cx="480" cy="456" rx="224" ry="72" fill="#D56530"/>
+<ellipse cx="480" cy="406" rx="196" ry="120" fill="#F7D684"/>
+<path d="M320 408C357 335 420 296 480 296C540 296 603 335 640 408" fill="#F4B447"/>
+<circle cx="374" cy="404" r="18" fill="#C75A25"/>
+<circle cx="546" cy="378" r="18" fill="#C75A25"/>
+<circle cx="620" cy="422" r="18" fill="#C75A25"/>
+<circle cx="446" cy="450" r="18" fill="#C75A25"/>
+<circle cx="326" cy="444" r="18" fill="#C75A25"/>
+<path d="M404 250C430 208 462 189 500 184" stroke="#3D7E4D" stroke-width="16" stroke-linecap="round"/>
+<path d="M529 251C554 219 580 203 620 198" stroke="#3D7E4D" stroke-width="16" stroke-linecap="round"/>
+<rect x="114" y="108" width="220" height="54" rx="27" fill="#fff" fill-opacity=".9"/>
+<text x="148" y="143" fill="#2C160F" font-family="Arial, sans-serif" font-size="28" font-weight="700">Hot Biryani</text>
+<defs>
+<linearGradient id="a" x1="118" y1="113" x2="846" y2="610" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF9F2"/>
+<stop offset="1" stop-color="#FFEAD8"/>
+</linearGradient>
+</defs>
+</svg>

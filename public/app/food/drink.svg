@@ -1,0 +1,19 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="960" height="720" rx="44" fill="#F9F4FF"/>
+<rect x="82" y="84" width="796" height="552" rx="40" fill="url(#a)"/>
+<path d="M372 166H586L560 572H398L372 166Z" fill="#FFCCA4"/>
+<path d="M391 230H567L550 532H408L391 230Z" fill="#F47E3B"/>
+<path d="M403 332H555L545 512H413L403 332Z" fill="#D74C2E"/>
+<rect x="448" y="122" width="20" height="132" rx="10" transform="rotate(-20 448 122)" fill="#5FD1BE"/>
+<circle cx="332" cy="220" r="34" fill="#FFD55C"/>
+<path d="M332 188V252" stroke="#FFF4C5" stroke-width="10" stroke-linecap="round"/>
+<path d="M300 220H364" stroke="#FFF4C5" stroke-width="10" stroke-linecap="round"/>
+<rect x="112" y="108" width="244" height="54" rx="27" fill="#fff" fill-opacity=".9"/>
+<text x="146" y="143" fill="#2C160F" font-family="Arial, sans-serif" font-size="28" font-weight="700">Cold Drinks</text>
+<defs>
+<linearGradient id="a" x1="114" y1="104" x2="840" y2="610" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF9FF"/>
+<stop offset="1" stop-color="#FEEBFF"/>
+</linearGradient>
+</defs>
+</svg>

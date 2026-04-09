@@ -1,0 +1,21 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="960" height="720" rx="44" fill="#F4FFF4"/>
+<rect x="82" y="84" width="796" height="552" rx="40" fill="url(#a)"/>
+<ellipse cx="480" cy="482" rx="232" ry="88" fill="#E5EEF0"/>
+<ellipse cx="480" cy="454" rx="206" ry="66" fill="#F8FAFB"/>
+<circle cx="401" cy="386" r="44" fill="#6DBE57"/>
+<circle cx="488" cy="350" r="48" fill="#79C563"/>
+<circle cx="563" cy="395" r="42" fill="#64B84D"/>
+<circle cx="452" cy="432" r="34" fill="#DB5845"/>
+<circle cx="525" cy="440" r="34" fill="#F0C451"/>
+<circle cx="360" cy="438" r="28" fill="#DB5845"/>
+<circle cx="610" cy="440" r="28" fill="#F0C451"/>
+<rect x="114" y="108" width="186" height="54" rx="27" fill="#fff" fill-opacity=".9"/>
+<text x="148" y="143" fill="#2C160F" font-family="Arial, sans-serif" font-size="28" font-weight="700">Fresh Salad</text>
+<defs>
+<linearGradient id="a" x1="114" y1="110" x2="846" y2="610" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FBFFFB"/>
+<stop offset="1" stop-color="#EFFFF0"/>
+</linearGradient>
+</defs>
+</svg>
